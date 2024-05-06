@@ -1,5 +1,4 @@
 # About the script
-This project is for Linux machines ,
 Please be careful when you run the script
 
 # Notes for the script itself
